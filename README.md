@@ -1,11 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+ sky
 eplace them with some bulleted information that may be helpful to new users
 
 ## What it does
-
-FEATURES PLACEHOLDER
+silva
 eplace them with some bulleted information that may be helpful to new users
 
 ## Getting started
