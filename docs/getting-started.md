@@ -40,6 +40,6 @@ Welcome to our repository! Thanks for adding an issue, if you are reporting a bu
 
 Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
 
- CONFIGS PLACEHOLDER and add some example welcome messages that may be helpful to new users.
+ 
 
 
