@@ -1,7 +1,7 @@
 # Getting Started Guide
 
 This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
-CONFIGS PLACEHOLDER
+CONFIGS PLACEHOLDER Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
 
 ## Installing the bot
 
