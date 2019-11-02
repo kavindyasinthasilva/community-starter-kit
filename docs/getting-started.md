@@ -14,7 +14,7 @@ The bot works by providing a message on a contributor's first issue, pull reques
 
 ## Creating the config
 
-The bot is designed to create messages when a user creates an issue, open a pull request, or merges a pull request. These messages are based on a config file in your repository. You will need to create a config file with the messages you want **welcome** to use. Your `.github/config.yml` should look something like this:
+Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number. `.github/config.yml` should look something like this:
 
 ```
 # Configuration for welcome - https://github.com/behaviorbot/welcome
@@ -37,10 +37,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
-
-
-Example 1
+CONFIGS PLACEHOLDER Example 1
 Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
 
 Example 2
